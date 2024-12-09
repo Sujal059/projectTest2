@@ -1,11 +1,9 @@
-import React from "react";
-
 const Footer = () => {
   return (
     <footer className="bg-black text-gray-400 py-10 px-4">
       <div className="max-w-7xl mx-auto text-center">
         <p className="text-lg mb-6">
-		Create or restart your membership
+		    Create or restart your membership
         </p>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
           <a href="#" className="hover:underline">FAQ</a>
